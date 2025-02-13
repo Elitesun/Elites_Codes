@@ -191,3 +191,13 @@ print(sum(int(i) for i in input())**2)
 ```
 
 This example calculates the square of the sum of digits of a number.
+
+### 10 . Checking if a number is a perfect square
+
+```python
+import math
+def find_next_square(sq):
+    if math.sqrt(sq).is_integer():
+        return (sq**0.5+1)**2
+    else : return -1
+```
