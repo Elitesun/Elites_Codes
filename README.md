@@ -40,9 +40,28 @@ function oddOrEven(array) {
 
 // Concise version using implicit return
 const oddOrEven = arr => arr.reduce((a, b) => a + b, 0) % 2 ? "odd" : "even";
+
+// Sum mixed array of numbers and strings
+function sumMix(x) {
+  let result = 0;
+  for (let n of x) {
+    result += parseInt(n);
+  }
+  return result;
+}
+
+// Alternative using eval and join
+function sumMix(x) {
+  return eval(x.join("+"));
+}
 ```
 
-These functions calculate the sum of array elements and determine if the sum is odd or even. The first version is more readable, while the second is more concise using arrow functions.
+These functions demonstrate various array summation techniques:
+- Basic sum calculation and odd/even determination
+- Handling mixed arrays containing both numbers and strings
+- Two approaches for mixed array summation:
+  1. Traditional loop with parseInt for type conversion
+  2. Concise solution using eval (Note: use with caution as eval can have security implications)
 
 ### 3. String Manipulation
 
