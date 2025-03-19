@@ -4,17 +4,8 @@ This repository contains various Python and JavaScript scripts demonstrating dif
 
 ## Python Scripts
 
-### String Manipulation
-
-#### rm_first_and_last.py
+### rm_first_and_last.py
 - Function to remove first and last characters from a string
-- Two implementations:
-  ```python
-  # Using slice with negative index
-  s[1:-1]
-  # Using len() function
-  s[1:len(s)-1]
-  ```
 
 #### checking if a string starts with something.py
 - Checks if a name starts with 'R' (case-insensitive)
