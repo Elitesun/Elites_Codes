@@ -10,8 +10,3 @@ print(number)  # Output: 10
 
 number = int("1010", 2)
 print(number)  # Output: 10
-
-
-
-
-

@@ -44,4 +44,3 @@ for index, season in enumerate(seasons, start=1):
 # Index 2: Summer
 # Index 3: Fall
 # Index 4: Winter
-

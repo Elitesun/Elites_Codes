@@ -55,4 +55,3 @@ match color:
         print("Grass is green")
     case Color.BLUE:
         print("I'm feeling the blues :(")
-

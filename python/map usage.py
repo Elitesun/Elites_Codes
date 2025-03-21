@@ -42,4 +42,3 @@ squared_numbers = map(lambda x: x * x, numbers)
 sum_of_squares = reduce(lambda x, y: x + y, squared_numbers)
 print(sum_of_squares)
 # Output: 55
-

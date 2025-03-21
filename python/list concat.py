@@ -38,4 +38,3 @@ Lists also support operations like concatenation:
 
 >>> sum(range(4))  # 0 + 1 + 2 + 3
 6
-

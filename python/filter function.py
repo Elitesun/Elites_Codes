@@ -69,5 +69,3 @@ odd_numbers = filter(lambda n: n % 2 != 0, numbers)
 odd_numbers_list = [n for n in odd_numbers]
 print(odd_numbers_list)
 # Output: [1, 3, 5, 7, 9]
-
-
