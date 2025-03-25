@@ -64,6 +64,14 @@ This repository contains various Python and JavaScript scripts demonstrating dif
 - Sequence reversal implementations
 - Array manipulation
 
+### Color Operations
+
+#### rgb_colors.js
+- RGB to hexadecimal color conversion
+- Handles edge cases (negative values and values over 255)
+- Multiple optimized implementations
+- Uses JavaScript's built-in number conversion and string padding
+
 ### Other JavaScript Scripts
 - first_two_letters.js: String extraction
 - combining_2_str_and_returning_the_longest_ocurrence_of_each_letter.js: Advanced string operations
