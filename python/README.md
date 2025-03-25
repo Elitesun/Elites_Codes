@@ -80,6 +80,13 @@ This folder contains various Python scripts demonstrating different programming 
 ### import re.py
 - Regular expression usage examples
 
+## Network Utilities
+
+### ip_address.py
+- IP address range calculator with two implementations:
+  1. Manual calculation using binary arithmetic and octets
+  2. Efficient implementation using Python's built-in ipaddress module
+
 ## Sequence Operations
 
 ### reverse_sequence.py

@@ -32,6 +32,13 @@ This folder contains various JavaScript utility functions and algorithms. Here's
 ### rm_first_last.js
 - Function to remove first and last elements
 
+## Network Operations
+
+### Ip_address.js
+- Function to calculate the number of valid IP addresses between two given IPs
+- Uses efficient binary arithmetic and array reduction
+- Converts IP addresses to 32-bit integers for calculation
+
 ## Color Operations
 
 ### rgb_colors.js
