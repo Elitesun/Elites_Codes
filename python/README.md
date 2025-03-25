@@ -94,3 +94,8 @@ This folder contains various Python scripts demonstrating different programming 
 
 ### rm_first_and_last.py
 - Remove first and last elements from sequences
+
+## Validation
+
+### mobile_num_check.py
+- Phone number validation utility
