@@ -18,6 +18,7 @@ This repository contains Python and JavaScript code examples from various coding
 
 ### Mathematical Operations
 - calculate_average.py - Average calculation functions
+- solve_ploynom.py - Polynomial equation solver
 - sum.py - Summation utilities
 - is_integer.py - Integer validation
 

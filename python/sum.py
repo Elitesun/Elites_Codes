@@ -1,9 +1,9 @@
-A bruh number of n is square of sum digits of n
-Example
-Input
-11
-Output
-4
+# A bruh number of n is square of sum digits of n
+# Example
+# Input
+# 11
+# Output
+# 4
 print(sum(int(i) for i in input())**2)
 
 
