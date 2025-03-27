@@ -52,6 +52,7 @@ This repository contains Python and JavaScript code examples from various coding
 - rm_first_last.js - Remove characters from string
 
 ### Array Operations
+- array_difference.js - Multiple implementations of array difference operations
 - checking if the sum of an array is odd or even .js - Array sum evaluation
 - mapping and spliting looking for something in something.js - Array manipulation
 - reverse_sequence.js - Sequence reversal
