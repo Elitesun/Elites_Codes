@@ -7,6 +7,7 @@ This folder contains various JavaScript utility functions and algorithms from co
 - first_two_letters.js - Function to abbreviate names by taking first letters
 - combining 2 str and returning the longest ocurrence of each letter.js - String combination and character analysis
 - rm_first_last.js - Remove first and last elements from strings
+- duplicate_count.js - Count duplicate characters in a string
 
 ## Array Operations
 - array_difference.js - Multiple implementations of array difference operations

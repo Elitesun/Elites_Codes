@@ -56,6 +56,7 @@ This repository contains Python and JavaScript code examples from various coding
 - checking if the sum of an array is odd or even .js - Array sum evaluation
 - mapping and spliting looking for something in something.js - Array manipulation
 - reverse_sequence.js - Sequence reversal
+- retrieve_unique.js - Find unique value in large arrays with O(n) time complexity
 
 ### Utilities
 - Ip_address.js - IP address utilities
